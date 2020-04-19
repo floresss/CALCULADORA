@@ -1,0 +1,41 @@
+* {
+    margin: 15px;
+    padding: 15px;
+}
+
+cuerpo {
+    background: orange;
+    font-family: tipográfica, calibri, Verdana, 'Book Antiqua';
+}
+
+#cuerpo {
+    background: #ff6a00;
+    width: 1200px;
+    margin: 4px auto;
+    border: 3px white;
+    color: orange;
+}
+
+#TITULO {
+    background: #ffff00;
+    width: 1200px;
+    margin: 4px auto;
+    border: 3px white;
+    color: orange;
+}
+
+#resultado {
+    background: #ffff00;
+    width: 1200px;
+    margin: 4px auto;
+    border: 3px white;
+    color: orange;
+}
+
+#igual {
+    background: #fffacd;
+    width: 1200px;
+    margin: 4px auto;
+    border: 3px white;
+    color: orange;
+}
